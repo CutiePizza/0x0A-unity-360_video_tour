@@ -17,7 +17,9 @@ We had 4 videos of the campus :
   - The Cube
   - The Cantina
   - The Mezzanine
-The user can navigate between video clips as illustrated in the diagram below :
+ 
+ 
+ The user can navigate between video clips as illustrated in the diagram below :
 ![logo](https://i.ibb.co/kMdLdm5/video360.png)
 
 
