@@ -1,6 +1,6 @@
 # 360 VR video
 
-![logo](https://ibb.co/9GMxMZc)
+![logo](https://i.ibb.co/kMdLdm5/video360.png)
 
 # TABLE OF CONTENTS
 ___
