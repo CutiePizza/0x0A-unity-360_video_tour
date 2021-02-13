@@ -1,17 +1,18 @@
-# 360 VR video
+# 360 VR VIDEO
 
 
-# TABLE OF CONTENTS
+# Table of contents
 ___
   - **Introduction**
   - **Description**
   - **Author**
  
-# INTRODUCTION
+# Introduction
 ___
 This project was carried out within Holberton school. We have been given videos of Holberton SF campus and were told to make it into a VR interactive experience.
 
 # Description
+___
 We had 4 videos of the campus : 
   - The living room
   - The Cube
